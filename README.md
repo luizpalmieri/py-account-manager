@@ -1,6 +1,6 @@
 # Py-Account-Manager
 
-An open-source lightweight desktopsecure password manager application with OTP support and dark mode interface.
+An open-source lightweight desktop secure password manager application with OTP support and dark mode interface.
 
 ## Features
 
