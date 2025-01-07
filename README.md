@@ -65,8 +65,8 @@ make test
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd password-manager
+git clone https://github.com/luizpalmieri/py-account-manager.git
+cd py-account-manager
 ```
 
 2. Use make commands:
