@@ -22,7 +22,7 @@ An open-source lightweight desktopsecure password manager application with OTP s
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <repository-url> [https://github.com/luizpalmieri/py-account-manager.git]
 cd password-manager
 ```
 
