@@ -23,7 +23,7 @@ An open-source lightweight desktop secure password manager application with OTP 
 1. Clone the repository:
 ```bash
 git clone https://github.com/luizpalmieri/py-account-manager.git
-cd password-manager
+cd py-account-manager
 ```
 
 2. You have two options for running the installation commands:
